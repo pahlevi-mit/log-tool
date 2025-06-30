@@ -1,0 +1,17 @@
+{
+    "name": "pahlevi-mit/log-tool",
+    "description": "aaaaaaaaaa",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "PahleviMit\\LogTool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Reza Pahlevi",
+            "email": "58584044+pahlevi-dev@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
