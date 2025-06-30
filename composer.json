@@ -1,8 +1,8 @@
 {
     "name": "pahlevi-mit/log-tool",
-	"description": "Authentication for PHP. Simple, lightweight and secure.",
+	"description": "Tool to ease debugging PHP code for cool developers.",
 	"require": {
-		"php": ">=8.0.0"
+		"php": ">=8.1"
 	},
 	"type": "library",
     "autoload": {
@@ -10,13 +10,12 @@
             "PahleviMit\\LogTool\\": "src/"
         }
     },
-        {
-            "minimum-stability": "dev"
-        },
     "authors": [
         {
             "name": "Reza Pahlevi",
             "email": "58584044+pahlevi-dev@users.noreply.github.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
