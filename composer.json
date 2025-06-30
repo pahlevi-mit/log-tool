@@ -1,7 +1,10 @@
 {
     "name": "pahlevi-mit/log-tool",
-    "description": "aaaaaaaaaa",
-    "type": "library",
+	"description": "Authentication for PHP. Simple, lightweight and secure.",
+	"require": {
+		"php": ">=8.0.0"
+	},
+	"type": "library",
     "autoload": {
         "psr-4": {
             "PahleviMit\\LogTool\\": "src/"
@@ -12,6 +15,5 @@
             "name": "Reza Pahlevi",
             "email": "58584044+pahlevi-dev@users.noreply.github.com"
         }
-    ],
-    "require": {}
+    ]
 }
