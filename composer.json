@@ -10,6 +10,9 @@
             "PahleviMit\\LogTool\\": "src/"
         }
     },
+        {
+            "minimum-stability": "dev"
+        },
     "authors": [
         {
             "name": "Reza Pahlevi",
